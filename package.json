@@ -1,0 +1,12 @@
+{
+  "name": "create-typescript-express-api",
+  "version": "1.0.0",
+  "description": "CLI to create a Typescript Express template app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leo Ferreira <leo.ferreira@dcx.ufpb.br>",
+  "license": "MIT"
+}

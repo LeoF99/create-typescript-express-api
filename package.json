@@ -1,10 +1,17 @@
 {
-  "name": "create-typescript-express-api",
+  "name": "create-typescript-express-template",
   "version": "1.0.0",
+  "bin": {
+    "create-typescript-express": "index.js"
+  },
   "description": "CLI to create a Typescript Express template app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeoF99/create-typescript-express-api.git"
   },
   "keywords": [],
   "author": "Leo Ferreira <leo.ferreira@dcx.ufpb.br>",
